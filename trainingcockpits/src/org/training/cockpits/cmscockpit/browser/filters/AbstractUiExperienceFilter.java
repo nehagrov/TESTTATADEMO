@@ -29,6 +29,7 @@ public abstract class AbstractUiExperienceFilter implements BrowserFilter
 {
 	private static final String ABSTRACT_PAGE_DEFAULT_PROPERTY_DESC = "abstractPage.defaultPage";
 	public static final String UI_EXPERIENCE_PARAM = "uiExperienceParam";
+	public static final String UI_EXPERIENCE_PARAM_NEXT = "uiExperienceParamNext";
 	private TypeService typeService;
 
 
