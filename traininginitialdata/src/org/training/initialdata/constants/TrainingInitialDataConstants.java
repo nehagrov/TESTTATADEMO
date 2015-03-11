@@ -19,6 +19,7 @@ package org.training.initialdata.constants;
 public final class TrainingInitialDataConstants extends GeneratedTrainingInitialDataConstants
 {
 	public static final String EXTENSIONNAME = "traininginitialdata";
+	public static final String SUFFIX = ".jsp";
 
 	private TrainingInitialDataConstants()
 	{
