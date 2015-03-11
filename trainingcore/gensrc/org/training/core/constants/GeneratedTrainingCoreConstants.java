@@ -22,6 +22,7 @@ public class GeneratedTrainingCoreConstants
 		public static final String ELECTRONICSCOLORVARIANTPRODUCT = "ElectronicsColorVariantProduct".intern();
 		public static final String SWATCHCOLORENUM = "SwatchColorEnum".intern();
 		public static final String TRAININGAPPARELPRODUCT = "TrainingApparelProduct".intern();
+		public static final String SWATCHCOLORENUM1 = "SwatchColorEnum".intern();
 	}
 	public static class Attributes
 	{
