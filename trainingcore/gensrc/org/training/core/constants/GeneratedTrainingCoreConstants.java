@@ -49,7 +49,7 @@ public class GeneratedTrainingCoreConstants
 	
 	protected GeneratedTrainingCoreConstants()
 	{
-		// private constructor
+		// protected constructor 
 	}
 	
 	
